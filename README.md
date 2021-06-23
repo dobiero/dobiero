@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...cloud SAAS
 - 🌱 I’m currently learning ...AWS 
 - 💞️ I’m looking to collaborate on ...web development
-- 📫 How to reach me ...here
+- 📫 How to reach me ...here danobiero.developer@gmail.com
 
 <!---
 dobiero/dobiero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
